@@ -5,4 +5,4 @@ Internet is shown.
 ## Author:
 Sahaj Vaidya
 
-[Link to website](https://khangtran2020.github.io/IS601-HistoryOfInternet/index.html)
+[Link to website](https://sahaj-vaidya.github.io/IS601-HistoryOfInternet/index.html)
