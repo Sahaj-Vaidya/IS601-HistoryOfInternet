@@ -1,6 +1,7 @@
-# IS601 - HISTORY OF THE INTERNET 
+# IS601 - HOW INTERNET WORKS
 
-This is the repository for the homework of course IS601 - History of the internet.  
+This is the repository for the homework of course IS601 where demonstration of working of 
+Internet is shown.  
 ## Author:
 Sahaj Vaidya
 
